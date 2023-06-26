@@ -6,11 +6,11 @@
   >
     <div class="footer__inner container">
       <div class="footer__text">
-        <h5>webstoryboy</h5>
+        <h5>kshkmn0929</h5>
         <p>
           질문 환영 🥳 <br />
           궁금한 사항은 메일로 연락주세요!
-          <a href="mailto:webstoryboy@naver.com">webstoryboy@naver.com</a>
+          <a href="mailto:kshkmn0929@naver.com">kshkmn0929@naver.com</a>
         </p>
         <ul class="sns">
           <li>
